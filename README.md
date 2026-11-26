@@ -7,8 +7,8 @@ The program writes exactly one word — the word my grandma would text
 about AI — to `/output/entry.txt`, UTF-8, with no trailing newline.
 
 [![make.fun](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
-[![rank](https://make.fun/u-0xkianno-one-word-from-grandma-f04bed16/xiangbingxi/makefun-one-word-from-grandma/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
-[![reward](https://make.fun/u-0xkianno-one-word-from-grandma-f04bed16/xiangbingxi/makefun-one-word-from-grandma/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/xiangbingxi/makefun-one-word-from-grandma/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/xiangbingxi/makefun-one-word-from-grandma/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
 
 ## How to run
 
